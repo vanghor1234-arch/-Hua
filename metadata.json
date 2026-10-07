@@ -1,0 +1,8 @@
+{
+  "name": "Rose Marvel - AI Sales Assistant",
+  "description": "AI-powered luxury real estate sales assistant for generating scripts, email pitches, objection handlers, and social media marketing copy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
